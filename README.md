@@ -33,3 +33,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=metacris93)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metacris93&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=metacris93&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
